@@ -6,7 +6,7 @@
         "imdb_rating": 8.5,
         "runtime": "2h 46m",
         "genre": "علمی-تخیلی، ماجراجویی، درام",
-        "image_url": "@/assets/images/dune_part_two.jpg",
+        "image_url": "/images/dune_part_two.jpg",
         "plot_summary": "پل آترایدس برای انتقام از توطئه‌گران نابودکننده خانواده‌اش، به چانی و فرمن‌ها می‌پیوندد. او بین عشق زندگی‌اش و سرنوشت جهان باید انتخاب کند.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -15,7 +15,7 @@
         "imdb_rating": 8.6,
         "runtime": "3h 0m",
         "genre": "زندگینامه، درام، تاریخی",
-        "image_url": "@/assets/images/oppenheimer.jpg",
+        "image_url": "/images/oppenheimer.jpg",
         "plot_summary": "داستان دانشمند آمریکایی جی. رابرت اوپنهایمر و نقش او در توسعه بمب اتمی، با تمرکز بر دوره پرالتهاب منتهی به آزمایش ترینیتی.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -24,7 +24,7 @@
         "imdb_rating": 7.9,
         "runtime": "1h 56m",
         "genre": "علمی-تخیلی، درام",
-        "image_url": "@/assets/images/arrival.jpg",
+        "image_url": "/images/arrival.jpg",
         "plot_summary": "یک زبان‌شناس برای ارتباط با موجودات فضایی پس از فرود سفینه‌های مرموز در جهان، استخدام می‌شود. کار او برای جلوگیری از جنگ جهانی حیاتی است.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -33,7 +33,7 @@
         "imdb_rating": 8.5,
         "runtime": "2h 12m",
         "genre": "درام، هیجان‌انگیز",
-        "image_url": "@/assets/images/parasite.png",
+        "image_url": "/images/parasite.png",
         "plot_summary": "حرص و تبعیض طبقاتی، رابطه همزیستی تازه تشکیل‌شده بین خانواده ثروتمند پارک و خانواده فقیر کیم را تهدید می‌کند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -42,7 +42,7 @@
         "imdb_rating": 8.8,
         "runtime": "2h 28m",
         "genre": "علمی-تخیلی، اکشن، ماجراجویی",
-        "image_url": "@/assets/images/inception.jpg",
+        "image_url": "/images/inception.jpg",
         "plot_summary": "دزدی که با استفاده از فناوری اشتراک‌گذاری رویا، اسرار شرکتی را می‌دزدد، مأمور می‌شود ایده‌ای را در ذهن یک مدیر عامل بکارد.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -51,7 +51,7 @@
         "imdb_rating": 9.3,
         "runtime": "2h 22m",
         "genre": "درام",
-        "image_url": "@/assets/images/shawshank.jpg",
+        "image_url": "/images/shawshank.jpg",
         "plot_summary": "دو زندانی در طول سال‌ها با هم پیوند می‌خورند و از طریق رفتارهای انسانی، تسلی و در نهایت رستگاری می‌یابند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -60,7 +60,7 @@
         "imdb_rating": 9.0,
         "runtime": "2h 32m",
         "genre": "اکشن، جنایی، درام",
-        "image_url": "@/assets/images/dark_knight.jpg",
+        "image_url": "/images/dark_knight.jpg",
         "plot_summary": "وقتی جوکر آشوب و هرج و مرج را برای مردم گاتهام به ارمغان می‌آورد، بتمن باید یکی از بزرگترین آزمایش‌های روانی و فیزیکی خود را بپذیرد.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -69,7 +69,7 @@
         "imdb_rating": 8.9,
         "runtime": "2h 34m",
         "genre": "جنایی، درام",
-        "image_url": "@/assets/images/pulp_fiction.jpg",
+        "image_url": "/images/pulp_fiction.jpg",
         "plot_summary": "زندگی دو آدمکش، یک بوکسور، یک گانگستر و همسرش، و یک جفت راهزن در یک رستوران، در چهار داستان خشونت و رستگاری در هم تنیده می‌شود.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -78,7 +78,7 @@
         "imdb_rating": 8.8,
         "runtime": "2h 22m",
         "genre": "درام، عاشقانه",
-        "image_url": "@/assets/images/forrest_gump.jpg",
+        "image_url": "/images/forrest_gump.jpg",
         "plot_summary": "ریاست جمهوری کندی و جانسون، وقایع جنگ ویتنام، رسوایی واترگیت و سایر رویدادهای تاریخی از دیدگاه مردی از آلاباما با ضریب هوشی ۷۵ روایت می‌شود.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -87,7 +87,7 @@
         "imdb_rating": 8.7,
         "runtime": "2h 16m",
         "genre": "اکشن، علمی-تخیلی",
-        "image_url": "@/assets/images/the_matrix.png",
+        "image_url": "/images/the_matrix.png",
         "plot_summary": "یک هکر کامپیوتری از شورشیان مرموز درباره ماهیت واقعی واقعیت خود و نقشش در جنگ با کنترل‌کنندگان آن می‌آموزد.",
         "age_rating": "R (مناسب بزرگسالان)"
       }
@@ -98,7 +98,7 @@
         "imdb_rating": 9.1,
         "runtime": "10 episodes",
         "genre": "درام، تاریخی، ماجراجویی",
-        "image_url": "@/assets/images/shogun_series.jpg",
+        "image_url": "/images/shogun_series.jpg",
         "plot_summary": "در ژاپن فئودالی، لرد یوشی توراناگا برای زندگی خود می‌جنگد تا اینکه یک کشتی اروپایی مرموز در یک روستای ماهیگیری nearby پیدا می‌شود.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -107,7 +107,7 @@
         "imdb_rating": 8.8,
         "runtime": "4 seasons",
         "genre": "درام",
-        "image_url": "@/assets/images/succession.jpg",
+        "image_url": "/images/succession.jpg",
         "plot_summary": "خانواده روی که بزرگترین شرکت رسانه‌ای و سرگرمی جهان را کنترل می‌کند، در مورد آینده خود پس از کناره‌گیری پدر سالار خانواده از شرکت تأمل می‌کنند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -116,7 +116,7 @@
         "imdb_rating": 9.5,
         "runtime": "5 seasons",
         "genre": "جنایی، درام، هیجان‌انگیز",
-        "image_url": "@/assets/images/breaking_bad.png",
+        "image_url": "/images/breaking_bad.png",
         "plot_summary": "یک معلم شیمی دبیرستان که به سرطان ریه مبتلا شده است، برای تأمین آینده خانواده خود به تولید و فروش متامفتامین با یک شاگرد سابق روی می‌آورد.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -125,7 +125,7 @@
         "imdb_rating": 9.2,
         "runtime": "8 seasons",
         "genre": "اکشن، ماجراجویی، درام",
-        "image_url": "@/assets/images/game_of_thrones.jpg",
+        "image_url": "/images/game_of_thrones.jpg",
         "plot_summary": "نه خانواده اشرافی برای کنترل سرزمین‌های وستروس می‌جنگند، در حالی که دشمنی باستانی بیدار شده و کل قاره را تهدید می‌کند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -134,7 +134,7 @@
         "imdb_rating": 9.4,
         "runtime": "5 episodes",
         "genre": "درام، تاریخی، هیجان‌انگیز",
-        "image_url": "@/assets/images/chernobyl.jpg",
+        "image_url": "/images/chernobyl.jpg",
         "plot_summary": "بازسازی داستان واقعی حادثه اتمی ۱۹۸۶، با تمرکز بر مردان و زنانی که برای کاهش فاجعه، جان خود را به خطر انداختند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -143,7 +143,7 @@
         "imdb_rating": 8.8,
         "runtime": "1 season (ongoing)",
         "genre": "اکشن، درام، علمی-تخیلی",
-        "image_url": "@/assets/images/the_last_of_us.png",
+        "image_url": "/images/the_last_of_us.png",
         "plot_summary": "پس از یک همه‌گیری جهانی که تمدن را از بین می‌برد، یک بازمانده سخت‌گیر مسئولیت یک دختر ۱۴ ساله را بر عهده می‌گیرد که ممکن است آخرین امید بشریت باشد.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -152,7 +152,7 @@
         "imdb_rating": 8.7,
         "runtime": "6 seasons",
         "genre": "زندگینامه، درام، تاریخی",
-        "image_url": "@/assets/images/the_crown.jpg",
+        "image_url": "/images/the_crown.jpg",
         "plot_summary": "رقابت‌های سیاسی و عاشقانه سلطنت ملکه الیزابت دوم و رویدادهایی که نیمه دوم قرن بیستم را شکل داد، دنبال می‌کند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -161,7 +161,7 @@
         "imdb_rating": 8.7,
         "runtime": "4 seasons (ongoing)",
         "genre": "درام، فانتزی، ترسناک",
-        "image_url": "@/assets/images/stranger_things.jpg",
+        "image_url": "/images/stranger_things.jpg",
         "plot_summary": "وقتی یک پسر جوان ناپدید می‌شود، یک شهر کوچک رمز و رازی را فاش می‌کند که شامل آزمایش‌های مخفی، نیروهای ماوراءطبیعی ترسناک و یک دختربچه عجیب است.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       },
@@ -170,7 +170,7 @@
         "imdb_rating": 9.0,
         "runtime": "1 season (ongoing)",
         "genre": "انیمیشن، اکشن، ماجراجویی",
-        "image_url": "@/assets/images/arcane.jpg",
+        "image_url": "/images/arcane.jpg",
         "plot_summary": "داستان در پیلتوور آرمانشهری و زیرزمین تحت ستم زاون می‌گذرد و به ریشه‌های دو قهرمان نمادین لیگ افسانه‌ها و قدرتی که آنان را از هم جدا می‌کند، می‌پردازد.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       },
@@ -179,7 +179,7 @@
         "imdb_rating": 8.8,
         "runtime": "6 seasons",
         "genre": "جنایی، درام",
-        "image_url": "@/assets/images/peaky_blinders.jpg",
+        "image_url": "/images/peaky_blinders.jpg",
         "plot_summary": "حماسه یک خانواده گانگستر در انگلستان دهه ۱۹۰۰، که بر یک باند که تیغ در لبه کلاه‌های خود می‌دوزند و رئیس سرسخت آنان تامی شلبی متمرکز است.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       }
@@ -190,7 +190,7 @@
         "imdb_rating": 7.7,
         "runtime": "1h 36m",
         "genre": "انیمیشن، ماجراجویی، کمدی",
-        "image_url": "@/assets/images/inside_out_2.jpg",
+        "image_url": "/images/inside_out_2.jpg",
         "plot_summary": "ستاد فرماندهی ذهن رایلی نوسازی ناگهانی را برای جا دادن چیزی کاملاً غیرمنتظره تجربه می‌کند: احساسات جدید!",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -199,7 +199,7 @@
         "imdb_rating": 8.6,
         "runtime": "2h 5m",
         "genre": "انیمیشن، ماجراجویی، خانوادگی",
-        "image_url": "@/assets/images/spirited_away.jpg",
+        "image_url": "/images/spirited_away.jpg",
         "plot_summary": "در طی نقل مکان خانواده‌اش به حومه شهر، یک دختر ۱۰ ساله عبوس به دنیایی سرگردان می‌شود که توسط خدایان، جادوگران و ارواح inhabited شده است.",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -208,7 +208,7 @@
         "imdb_rating": 8.6,
         "runtime": "2h 20m",
         "genre": "انیمیشن، اکشن، ماجراجویی",
-        "image_url": "@/assets/images/spider_verse_2.jpg",
+        "image_url": "/images/spider_verse_2.jpg",
         "plot_summary": "مایلز مورالس در چندجهانی پرتاب می‌شود، جایی با تیمی از مردان-عنکبوتی روبرو می‌شود که مأمور محافظت از هستی آن هستند.",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -217,7 +217,7 @@
         "imdb_rating": 8.2,
         "runtime": "1h 36m",
         "genre": "انیمیشن، ماجراجویی، کمدی",
-        "image_url": "@/assets/images/klaus.jpeg",
+        "image_url": "/images/klaus.jpeg",
         "plot_summary": "یک عمل ساده مهربانی همیشه جرقه دیگری را می‌زند، حتی در یک مکان یخ‌زده دوردست. سفر یک مرد جوان به شمال دور او را به یک دوست غیرمنتظره و یک سورتمه جادویی رهنمون می‌کند.",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -226,7 +226,7 @@
         "imdb_rating": 8.4,
         "runtime": "1h 46m",
         "genre": "انیمیشن، درام، فانتزی",
-        "image_url": "@/assets/images/your_name.jpg",
+        "image_url": "/images/your_name.jpg",
         "plot_summary": "دو نوجوان که در بخش‌های مختلف ژاپن زندگی می‌کنند، discover می‌کنند که می‌توانند bodies را عوض کنند. آن‌ها با گذاشتن پیام برای یکدیگر شروع به ارتباط می‌کنند.",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -235,7 +235,7 @@
         "imdb_rating": 8.3,
         "runtime": "1h 21m",
         "genre": "انیمیشن، ماجراجویی، کمدی",
-        "image_url": "@/assets/images/toy_story.jpg",
+        "image_url": "/images/toy_story.jpg",
         "plot_summary": "یک عروسک کابویی زمانی که یک figurine spaceman جدید جای او را به عنوان اسباب‌بازی مورد علاقه یک پسر می‌گیرد، عمیقاً احساس تهدید و حسادت می‌کند.",
         "age_rating": "G (مناسب تمام سنین)"
       },
@@ -244,7 +244,7 @@
         "imdb_rating": 8.1,
         "runtime": "1h 38m",
         "genre": "انیمیشن، ماجراجویی، خانوادگی",
-        "image_url": "@/assets/images/how_to_train_your_dragon.jpg",
+        "image_url": "/images/how_to_train_your_dragon.jpg",
         "plot_summary": "یک وایکینگ دست و پا چلفتی که آرزوی شکار اژدها را دارد، به دوست غیرمنتظره یک اژدهای جوان تبدیل می‌شود و می‌آموزد که ممکن است موجودات بیشتری از آنچه تصور می‌کرد وجود داشته باشد.",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -253,7 +253,7 @@
         "imdb_rating": 8.0,
         "runtime": "1h 48m",
         "genre": "انیمیشن، ماجراجویی، کمدی",
-        "image_url": "@/assets/images/zootopia.jpg",
+        "image_url": "/images/zootopia.jpg",
         "plot_summary": "در شهری از حیوانات انسان‌نما، یک پلیس تازه‌کار خرگوش و یک روباه بدبین برای فاش کردن یک توطئه متحد می‌شوند.",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -262,7 +262,7 @@
         "imdb_rating": 8.4,
         "runtime": "1h 45m",
         "genre": "انیمیشن، ماجراجویی، خانوادگی",
-        "image_url": "@/assets/images/coco.jpg",
+        "image_url": "/images/coco.jpg",
         "plot_summary": "میگل، موسیقیدان مشتاق، با ممنوعیت خانوادگی موسیقی روبرو می‌شود و برای یافتن پدرپزرگ بزرگش، یک خواننده افسانه‌ای، وارد سرزمین مردگان می‌شود.",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -271,7 +271,7 @@
         "imdb_rating": 9.3,
         "runtime": "3 seasons",
         "genre": "انیمیشن، اکشن، ماجراجویی",
-        "image_url": "@/assets/images/avatar_atla.jpg",
+        "image_url": "/images/avatar_atla.jpg",
         "plot_summary": "در دنیای جنگ‌زده ای از جادوی عنصری، یک پسر جوان برای انجام یک سفر عرفانی خطرناک بیدار می‌شود تا سرنوشت خود را به عنوان آواتار محقق کند و صلح را به جهان بازگرداند.",
         "age_rating": "TV-Y7 (مناسب کودکان بالای ۷ سال)"
       }
@@ -284,7 +284,7 @@
         "imdb_rating": 8.1,
         "runtime": "2h 0m",
         "genre": "اکشن، ماجراجویی، علمی-تخیلی",
-        "image_url": "@/assets/images/mad_max_fury_road.jpg",
+        "image_url": "/images/mad_max_fury_road.jpg",
         "plot_summary": "در یک سرزمین ویرانه پسا-آخرالزمانی، یک زن علیه یک حاکم مستبد شورش می‌کند و با کمک گروهی از زندانیان زن، یک آواره و ماشین پر مصرف بنزین او به دنبال وطنش می‌گردد.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -293,7 +293,7 @@
         "imdb_rating": 7.7,
         "runtime": "2h 27m",
         "genre": "اکشن، ماجراجویی، هیجان‌انگیز",
-        "image_url": "@/assets/images/mission_impossible_fallout.jpg",
+        "image_url": "/images/mission_impossible_fallout.jpg",
         "plot_summary": "ایتان هانت و تیم IMF او باید پس از اشتباه پیش رفتن یک مأموریت، با زمان مسابقه دهند و یک عامل فراری و نقشه او برای سلاح‌های اتمی را تعقیب کنند.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -302,7 +302,7 @@
         "imdb_rating": 7.7,
         "runtime": "2h 49m",
         "genre": "اکشن، جنایی، هیجان‌انگیز",
-        "image_url": "@/assets/images/john_wick_4.jpg",
+        "image_url": "/images/john_wick_4.jpg",
         "plot_summary": "جان ویک راهی برای شکست دادن میز عالی کشف می‌کند. اما قبل از به دست آوردن آزادی، باید با یک دشمن جدید با اتحادهای قدرتمند در سراسر جهان روبرو شود.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -311,7 +311,7 @@
         "imdb_rating": 8.2,
         "runtime": "1h 51m",
         "genre": "اکشن، جنایی، هیجان‌انگیز",
-        "image_url": "@/assets/images/kill_bill_1.png",
+        "image_url": "/images/kill_bill_1.png",
         "plot_summary": "پس از بیدار شدن از یک کما چهار ساله، یک قاتل سابق به دنبال انتقام از رئیس سابق خود و تیمش می‌رود که قصد داشتند او را در روز عروسی‌اش به قتل برسانند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -320,7 +320,7 @@
         "imdb_rating": 7.0,
         "runtime": "2h 2m",
         "genre": "اکشن، هیجان‌انگیز",
-        "image_url": "@/assets/images/extraction_2.jpg",
+        "image_url": "/images/extraction_2.jpg",
         "plot_summary": "تایلر ریک، مزدور سیاه استرالیایی، از لبه مرگ بازمی‌گردد تا یک مأموریت مرگبار دیگر را بر عهده بگیرد: نجات خانواده کتک خورده یک گانگستر بی‌رحم گرجستانی.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -329,7 +329,7 @@
         "imdb_rating": 8.4,
         "runtime": "3h 1m",
         "genre": "اکشن، درام، علمی-تخیلی",
-        "image_url": "@/assets/images/avengers_endgame.jpg",
+        "image_url": "/images/avengers_endgame.jpg",
         "plot_summary": "ونجرهای باقی‌مانده باید راهی برای بازگرداندن متحدان نابود شده خود برای یک رویارویی حماسی با تانوس پیدا کنند.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -338,7 +338,7 @@
         "imdb_rating": 8.5,
         "runtime": "2h 35m",
         "genre": "اکشن، ماجراجویی، درام",
-        "image_url": "@/assets/images/gladiator.png",
+        "image_url": "/images/gladiator.png",
         "plot_summary": "یک ژنرال سابق رومی برای انتقام از امپراتور فاسدی که خانواده او را به قتل رساند و او را به بردگی فرستاد، بیرون می‌آید.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -347,7 +347,7 @@
         "imdb_rating": 8.0,
         "runtime": "1 season",
         "genre": "اکشن، درام، معمایی",
-        "image_url": "@/assets/images/squid_game.jpg",
+        "image_url": "/images/squid_game.jpg",
         "plot_summary": "صدها شرکت کننده بی‌پول یک دعوتنامه عجیب برای رقابت در بازی‌های کودکان برای یک جایزه وسوسه انگیز می‌پذیرند، اما شرط‌ها مرگبار هستند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -356,7 +356,7 @@
         "imdb_rating": 8.1,
         "runtime": "2 seasons",
         "genre": "اکشن، جنایی، درام",
-        "image_url": "@/assets/images/reacher_series.jpg",
+        "image_url": "/images/reacher_series.jpg",
         "plot_summary": "جک ریچر، یک کارآگاه پلیس نظامی کهنه‌کار، به جرم قتلی که مرتکب نشده است دستگیر می‌شود. او باید بی‌گناهی خود را ثابت کند و یک توطئه ریشه‌دار را فاش کند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -365,7 +365,7 @@
         "imdb_rating": 8.7,
         "runtime": "3 seasons",
         "genre": "اکشن، ماجراجویی، علمی-تخیلی",
-        "image_url": "@/assets/images/the_mandalorian.jpg",
+        "image_url": "/images/the_mandalorian.jpg",
         "plot_summary": "ماجراهای یک شکارچی جایزه تنها در نقاط دور کهکشان، دور از حاکمیت جمهوری جدید.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       }
@@ -376,7 +376,7 @@
         "imdb_rating": 9.2,
         "runtime": "2h 55m",
         "genre": "جنایی، درام",
-        "image_url": "@/assets/images/the_godfather.jpg",
+        "image_url": "/images/the_godfather.jpg",
         "plot_summary": "پدر سالار سالخورده یک سلسله جنایت سازمان یافته، کنترل امپراتوری پنهان خود را به پسر مردد خود منتقل می‌کند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -385,7 +385,7 @@
         "imdb_rating": 9.0,
         "runtime": "3h 15m",
         "genre": "زندگینامه، درام، تاریخی",
-        "image_url": "@/assets/images/schindlers_list.jpg",
+        "image_url": "/images/schindlers_list.jpg",
         "plot_summary": "در لهستان تحت اشغال آلمان در طول جنگ جهانی دوم، صنعتگر اسکار شیندلر پس از شاهد آزار و اذیت یهودیان توسط نازی‌ها، نگران کارگران یهودی خود می‌شود.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -394,7 +394,7 @@
         "imdb_rating": 8.5,
         "runtime": "2h 30m",
         "genre": "زندگینامه، درام، جنگی",
-        "image_url": "@/assets/images/the_pianist.jpg",
+        "image_url": "/images/the_pianist.jpg",
         "plot_summary": "یک موسیقیدان یهودی لهستانی برای زنده ماندن در تخریب گتو ورشو در جنگ جهانی دوم تلاش می‌کند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -403,7 +403,7 @@
         "imdb_rating": 8.5,
         "runtime": "1 season",
         "genre": "درام",
-        "image_url": "@/assets/images/queens_gambit.jpg",
+        "image_url": "/images/queens_gambit.jpg",
         "plot_summary": "بت هارمون که در ۹ سالگی یتیم شده است، استعداد شگفت‌انگیزی برای شطرنج توسعه می‌دهد و در حالی که با اعتیاد می‌جنگد، سفر نامحتملی را به سوی ستاره شدن آغاز می‌کند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -412,7 +412,7 @@
         "imdb_rating": 8.6,
         "runtime": "2 seasons",
         "genre": "جنایی، درام، هیجان‌انگیز",
-        "image_url": "@/assets/images/mindhunter.jpg",
+        "image_url": "/images/mindhunter.jpg",
         "plot_summary": "در اواخر دهه ۱۹۷۰، دو عامل اف‌بی‌آی سعی می‌کنند با مصاحبه با قاتلان زنجیره‌ای در زندان، وارد ذهن آنان شوند، به امید اعمال این دانش در حل پرونده‌های جاری.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -421,7 +421,7 @@
         "imdb_rating": 7.8,
         "runtime": "2h 17m",
         "genre": "درام",
-        "image_url": "@/assets/images/manchester_by_the_sea.jpg",
+        "image_url": "/images/manchester_by_the_sea.jpg",
         "plot_summary": "یک مرد افسرده باید پس از مرگ برادرش به زادگاه خود بازگردد، جایی که مجبور می‌شود با گذشته خود روبرو شود و از برادرزاده نوجوان خود مراقبت کند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -430,7 +430,7 @@
         "imdb_rating": 8.7,
         "runtime": "1 season (ongoing)",
         "genre": "درام، معمایی، علمی-تخیلی",
-        "image_url": "@/assets/images/severance.jpg",
+        "image_url": "/images/severance.jpg",
         "plot_summary": "مارک اسکات تیمی از کارمندان اداری را رهبری می‌کند که خاطرات آنان به طور جراحی بین کار و زندگی شخصی تقسیم شده است.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -439,7 +439,7 @@
         "imdb_rating": 7.8,
         "runtime": "2h 0m",
         "genre": "زندگینامه، درام",
-        "image_url": "@/assets/images/the_social_network.jpg",
+        "image_url": "/images/the_social_network.jpg",
         "plot_summary": "همزمان با ایجاد سایت شبکه‌ای اجتماعی توسط مارک زاکربرگ دانشجوی هاروارد، او توسط دوقلوهایی که ادعا می‌کنند ایده او را دزدیده است و همبنیادی که بعداً از کسب و کار کنار زده شد، مورد شکایت قرار می‌گیرد.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -448,7 +448,7 @@
         "imdb_rating": 8.1,
         "runtime": "1h 58m",
         "genre": "درام، هیجان‌انگیز",
-        "image_url": "@/assets/images/room.jpg",
+        "image_url": "/images/room.jpg",
         "plot_summary": "پس از فرار جک پنج ساله و مادرش از اتاقکی که سال‌ها در آن زندانی بودند، جک با هیجان دنیای جدیدشان overwhelmed می‌شود.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -457,7 +457,7 @@
         "imdb_rating": 8.7,
         "runtime": "6 seasons",
         "genre": "کمدی، درام، عاشقانه",
-        "image_url": "@/assets/images/this_is_us.jpg",
+        "image_url": "/images/this_is_us.jpg",
         "plot_summary": "یک داستان گرم و احساسی درباره یک مجموعه منحصر به فرد از سه قلوها، والدین آنان و زندگی آنان در طول چندین دهه.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       }
@@ -468,7 +468,7 @@
         "imdb_rating": 8.1,
         "runtime": "1h 39m",
         "genre": "ماجراجویی، کمدی، درام",
-        "image_url": "@/assets/images/grand_budapest.jpg",
+        "image_url": "/images/grand_budapest.jpg",
         "plot_summary": "ماجراهای گوستاو اچ، concierge افسانه‌ای در یک هتل معروف اروپایی بین جنگ‌ها، و زیرو مصطفی، پسر لابی که تبدیل به مورد اعتمادترین دوست او می‌شود.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -477,7 +477,7 @@
         "imdb_rating": 9.0,
         "runtime": "9 seasons",
         "genre": "کمدی",
-        "image_url": "@/assets/images/the_office.jpg",
+        "image_url": "/images/the_office.jpg",
         "plot_summary": "یک مستندنمایی از زندگی یک گروه از کارمندان عجیب و غریب اداری و مدیر آنان در یک شرکت تامین لوازم اداری در اسکرانتون، پنسیلوانیا.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       },
@@ -486,7 +486,7 @@
         "imdb_rating": 8.8,
         "runtime": "3 seasons",
         "genre": "کمدی، درام، ورزشی",
-        "image_url": "@/assets/images/ted_lasso.jpg",
+        "image_url": "/images/ted_lasso.jpg",
         "plot_summary": "یک مربی فوتبال آمریکایی برای مدیریت یک تیم فوتبال بریتانیایی استخدام می‌شود، despite نداشتن تجربه. او از خوش‌بینی خود برای جلب نظر مردم محلی شکاک لندن استفاده می‌کند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -495,7 +495,7 @@
         "imdb_rating": 8.4,
         "runtime": "8 seasons",
         "genre": "کمدی، جنایی",
-        "image_url": "@/assets/images/b99.jpg",
+        "image_url": "/images/b99.jpg",
         "plot_summary": "جیک پرالتا، یک کارآگاه با استعداد اما نابالغ اداره پلیس نیویورک، مجبور می‌شود تحت نظر کاپیتان سخت‌گیر و آرام ریموند هالت کار کند.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       },
@@ -504,7 +504,7 @@
         "imdb_rating": 7.2,
         "runtime": "1h 34m",
         "genre": "کمدی",
-        "image_url": "@/assets/images/anchorman.jpg",
+        "image_url": "/images/anchorman.jpg",
         "plot_summary": "در سن دیه‌گوی دهه ۱۹۷۰، حرفه یک گوینده خبری محبوب زمانی تهدید می‌شود که یک گزارشگر زن جاه‌طلب استخدام می‌شود که منجر به یک نبرد شدید برای صندلی گویندگی می‌شود.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -513,7 +513,7 @@
         "imdb_rating": 8.1,
         "runtime": "1h 57m",
         "genre": "کمدی، جنایی",
-        "image_url": "@/assets/images/big_lebowski.jpg",
+        "image_url": "/images/big_lebowski.jpg",
         "plot_summary": "جفری 'دود' لِبowski، یک تنبل لس آنجلسی، با یک میلیونر هم نام اشتباه گرفته می‌شود و برای تحویل باج هنگامی که همسر تروفه میلیونر ربوده می‌شود، استخدام می‌شود.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -522,7 +522,7 @@
         "imdb_rating": 8.6,
         "runtime": "7 seasons",
         "genre": "کمدی",
-        "image_url": "@/assets/images/parks_and_rec.jpg",
+        "image_url": "/images/parks_and_rec.jpg",
         "plot_summary": "حرکات پوچ یک کارمند خدمات شهری ایندیاناپلیس و همکارانش در حالی که سعی می‌کنند شهر خود را به مکانی بهتر تبدیل کنند.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       },
@@ -531,7 +531,7 @@
         "imdb_rating": 7.1,
         "runtime": "1h 42m",
         "genre": "کمدی",
-        "image_url": "@/assets/images/booksmart.jpg",
+        "image_url": "/images/booksmart.jpg",
         "plot_summary": "در آستانه فارغ التحصیلی دبیرستان، دو دانش‌آموز سال آخر بیش از حد موفق متوجه می‌شوند که باید کمتر کار می‌کردند و بیشتر بازی می‌کردند، و تصمیم می‌گیرند چهار سال مهمانی را در یک شب بگنجانند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -540,7 +540,7 @@
         "imdb_rating": 8.7,
         "runtime": "2 seasons",
         "genre": "کمدی، درام",
-        "image_url": "@/assets/images/fleabag.jpg",
+        "image_url": "/images/fleabag.jpg",
         "plot_summary": "یک زن بدبین و از نظر عاطفی آسیب دیده در لندن که زندگی، عشق و از دست دادن را طی می‌کند در حالی که frequently دیوار چهارم را می‌شکند تا با مخاطب صحبت کند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -549,7 +549,7 @@
         "imdb_rating": 8.2,
         "runtime": "4 seasons",
         "genre": "کمدی، درام، فانتزی",
-        "image_url": "@/assets/images/the_good_place.jpg",
+        "image_url": "/images/the_good_place.jpg",
         "plot_summary": "به دلیل یک خطا، النور شل‌ستروپ self-absorbed پس از مرگش به مکان خوب می‌رسد. او سعی می‌کند گذشته از نظر اخلاقی compromised خود را از مایکل، معمار زندگی پس از مرگ، و ساکنان دیگر پنهان کند.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       }
@@ -560,7 +560,7 @@
         "imdb_rating": 7.3,
         "runtime": "2h 7m",
         "genre": "درام، ترسناک، معمایی",
-        "image_url": "@/assets/images/hereditary.jpg",
+        "image_url": "/images/hereditary.jpg",
         "plot_summary": "یک خانواده داغدار پس از مرگ مادربزرگ مرموز خود، توسط وقایع غم‌انگیز و ناراحت کننده مورد آزار قرار می‌گیرند، زیرا شروع به باز کردن اسرار وحشتناک درباره نسب خود می‌کنند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -569,7 +569,7 @@
         "imdb_rating": 7.7,
         "runtime": "1h 44m",
         "genre": "ترسناک، معمایی، هیجان‌انگیز",
-        "image_url": "@/assets/images/get_out.jpg",
+        "image_url": "/images/get_out.jpg",
         "plot_summary": "یک عکاس جوان سیاهپوست برای یک آخر هفته به حومه شهر می‌رود تا با والدین سفیدپوست دوست دخترش ملاقات کند، اما به زودی حقیقت ناراحت کننده پشت ظاهر بیش از حد مودب آنان را کشف می‌کند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -578,7 +578,7 @@
         "imdb_rating": 8.1,
         "runtime": "2h 2m",
         "genre": "ترسناک",
-        "image_url": "@/assets/images/the_exorcist.jpg",
+        "image_url": "/images/the_exorcist.jpg",
         "plot_summary": "وقتی یک دختر نوجوان توسط یک موجود مرموز تسخیر می‌شود، مادرش برای نجات دخترش از دو کشیش کمک می‌گیرد.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -587,7 +587,7 @@
         "imdb_rating": 8.6,
         "runtime": "1 season",
         "genre": "درام، ترسناک، معمایی",
-        "image_url": "@/assets/images/hill_house.jpg",
+        "image_url": "/images/hill_house.jpg",
         "plot_summary": "پنج خواهر و برادر بزرگسال با ارواح گذشته خود در خانه مخروبه‌ای که در آن بزرگ شده‌اند روبرو می‌شوند، و جایی که یک حضور تاریک هنوز باقی مانده است.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -596,7 +596,7 @@
         "imdb_rating": 6.8,
         "runtime": "1h 40m",
         "genre": "ترسناک، معمایی",
-        "image_url": "@/assets/images/it_follows.jpg",
+        "image_url": "/images/it_follows.jpg",
         "plot_summary": "یک زن جوان توسط یک نیروی ماوراءطبیعی ناشناخته پس از یک رابطه جنسی دنبال می‌شود. او باید این curse را به شخص دیگری منتقل کند یا توسط این موجود شکار شود.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -605,7 +605,7 @@
         "imdb_rating": 7.5,
         "runtime": "1h 30m",
         "genre": "درام، ترسناک، علمی-تخیلی",
-        "image_url": "@/assets/images/a_quiet_place.jpg",
+        "image_url": "/images/a_quiet_place.jpg",
         "plot_summary": "یک خانواده مجبور می‌شوند در سکوت زندگی کنند در حالی که از موجوداتی که با صدا شکار می‌کنند، پنهان می‌شوند.",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -614,7 +614,7 @@
         "imdb_rating": 6.8,
         "runtime": "1h 34m",
         "genre": "درام، ترسناک، هیجان‌انگیز",
-        "image_url": "@/assets/images/babadook.jpg",
+        "image_url": "/images/babadook.jpg",
         "plot_summary": "یک مادر مجرد و پسر مشکل‌دارش توسط هیولایی که از یک کتاب داستان کودکان ظاهر می‌شود، مورد آزار و اذیت قرار می‌گیرند.",
         "age_rating": "Not Rated (درجه‌بندی نشده)"
       },
@@ -623,7 +623,7 @@
         "imdb_rating": 7.6,
         "runtime": "1h 58m",
         "genre": "اکشن، ترسناک، هیجان‌انگیز",
-        "image_url": "@/assets/images/train_to_busan.jpg",
+        "image_url": "/images/train_to_busan.jpg",
         "plot_summary": "یک پدر و دختر جدا شده از او در یک قطار در طول یک زامبی آخرالزمانی ناگهانی در کره جنوبی به دام می‌افتند و باید برای زنده ماندن بجنگند.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -632,7 +632,7 @@
         "imdb_rating": 7.4,
         "runtime": "1h 49m",
         "genre": "درام، فانتزی، ترسناک",
-        "image_url": "@/assets/images/the_lighthouse.jpg",
+        "image_url": "/images/the_lighthouse.jpg",
         "plot_summary": "دو فانوس‌بان سعی می‌کنند عقلانیت خود را در حالی که در یک جزیره دورافتاده و مرموز نیوانگلند در دهه ۱۸۹۰ زندگی می‌کنند، حفظ کنند.",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -641,7 +641,7 @@
         "imdb_rating": 7.7,
         "runtime": "1 season",
         "genre": "درام، فانتزی، ترسناک",
-        "image_url": "@/assets/images/midnight_mass.jpg",
+        "image_url": "/images/midnight_mass.jpg",
         "plot_summary": "ورود یک کشیش جوان کاریزماتیک معجزات و نشانه‌های ترسناک را برای یک شهر جزیره‌ای در حال مرگ به ارمغان می‌آورد.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       }
@@ -654,7 +654,7 @@
         "imdb_rating": 8.5,
         "runtime": "2h 46m",
         "genre": "علمی-تخیلی، ماجراجویی، درام",
-        "image_url": "@/assets/images/dune_slider_1.jpg",
+        "image_url": "/images/dune_slider_1.jpg",
         "plot_summary": "پل آترایدس برای انتقام به چانی و فرمن‌ها می‌پیوندد...",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -663,7 +663,7 @@
         "imdb_rating": 9.1,
         "runtime": "10 episodes",
         "genre": "درام، تاریخی، ماجراجویی",
-        "image_url": "@/assets/images/shogun_slider_1.jpg",
+        "image_url": "/images/shogun_slider_1.jpg",
         "plot_summary": "در ژاپن فئودالی، لرد یوشی توراناگا برای زندگی خود می‌جنگد...",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -672,7 +672,7 @@
         "imdb_rating": 7.7,
         "runtime": "1h 36m",
         "genre": "انیمیشن، ماجراجویی، کمدی",
-        "image_url": "@/assets/images/inside_out_2_slider_1.jpg",
+        "image_url": "/images/inside_out_2_slider_1.jpg",
         "plot_summary": "ستاد فرماندهی ذهن رایلی نوسازی ناگهانی را برای جا دادن چیزی کاملاً غیرمنتظره تجربه می‌کند: احساسات جدید!",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       },
@@ -681,7 +681,7 @@
         "imdb_rating": 7.0,
         "runtime": "2h 2m",
         "genre": "اکشن، هیجان‌انگیز",
-        "image_url": "@/assets/images/extraction_2_slider_1.jpg",
+        "image_url": "/images/extraction_2_slider_1.jpg",
         "plot_summary": "تایلر ریک از لبه مرگ بازمی‌گردد تا یک مأموریت مرگبار دیگر را بر عهده بگیرد...",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -690,7 +690,7 @@
         "imdb_rating": 8.7,
         "runtime": "1 season (ongoing)",
         "genre": "درام، معمایی، علمی-تخیلی",
-        "image_url": "@/assets/images/severance_slider_1.jpg",
+        "image_url": "/images/severance_slider_1.jpg",
         "plot_summary": "مارک اسکات تیمی از کارمندان اداری را رهبری می‌کند که خاطرات آنان به طور جراحی تقسیم شده...",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -699,7 +699,7 @@
         "imdb_rating": 8.8,
         "runtime": "3 seasons",
         "genre": "کمدی، درام، ورزشی",
-        "image_url": "@/assets/images/ted_lasso_slider_1.jpg",
+        "image_url": "/images/the_last_of_us_slider_1.jpg",
         "plot_summary": "یک مربی فوتبال آمریکایی برای مدیریت یک تیم فوتبال بریتانیایی استخدام می‌شود، despite نداشتن تجربه.",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -708,7 +708,7 @@
         "imdb_rating": 8.8,
         "runtime": "1 season (ongoing)",
         "genre": "اکشن، درام، علمی-تخیلی",
-        "image_url": "@/assets/images/the_last_of_us_slider_1.jpg",
+        "image_url": "/images/ted_lasso_slider_1.jpg",
         "plot_summary": "پس از یک همه‌گیری جهانی که تمدن را از بین می‌برد، یک بازمانده سخت‌گیر مسئولیت یک دختر ۱۴ ساله را بر عهده می‌گیرد...",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -717,7 +717,7 @@
         "imdb_rating": 7.7,
         "runtime": "2h 49m",
         "genre": "اکشن، جنایی، هیجان‌انگیز",
-        "image_url": "@/assets/images/john_wick_4_slider_1.jpg",
+        "image_url": "/images/john_wick_4_slider_1.jpg",
         "plot_summary": "جان ویک راهی برای شکست دادن میز عالی کشف می‌کند.",
         "age_rating": "R (مناسب بزرگسالان)"
       }
@@ -728,7 +728,7 @@
         "imdb_rating": 9.3,
         "runtime": "2h 22m",
         "genre": "درام",
-        "image_url": "@/assets/images/shawshank_slider_2.jpg",
+        "image_url": "/images/shawshank_slider_2.jpg",
         "plot_summary": "دو زندانی در طول سال‌ها با هم پیوند می‌خورند و تسلی و در نهایت رستگاری می‌یابند...",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -737,7 +737,7 @@
         "imdb_rating": 9.5,
         "runtime": "5 seasons",
         "genre": "جنایی، درام، هیجان‌انگیز",
-        "image_url": "@/assets/images/breaking_bad_slider_2.jpg",
+        "image_url": "/images/breaking_bad_slider_2.jpg",
         "plot_summary": "یک معلم شیمی دبیرستان که به سرطان ریه مبتلا شده است، به تولید و فروش متامفتامین روی می‌آورد...",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -746,7 +746,7 @@
         "imdb_rating": 9.0,
         "runtime": "2h 32m",
         "genre": "اکشن، جنایی، درام",
-        "image_url": "@/assets/images/dark_knight_slider_2.jpg",
+        "image_url": "/images/dark_knight_slider_2.jpg",
         "plot_summary": "وقتی جوکر آشوب و هرج و مرج را برای مردم گاتهام به ارمغان می‌آورد...",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -755,7 +755,7 @@
         "imdb_rating": 9.4,
         "runtime": "5 episodes",
         "genre": "درام، تاریخی، هیجان‌انگیز",
-        "image_url": "@/assets/images/chernobyl_slider_2.jpg",
+        "image_url": "/images/chernobyl_slider_2.jpg",
         "plot_summary": "بازسازی داستان واقعی حادثه اتمی ۱۹۸۶...",
         "age_rating": "TV-MA (مخصوص بزرگسالان)"
       },
@@ -764,7 +764,7 @@
         "imdb_rating": 8.8,
         "runtime": "2h 28m",
         "genre": "علمی-تخیلی، اکشن، ماجراجویی",
-        "image_url": "@/assets/images/inception_slider_2.jpg",
+        "image_url": "/images/inception_slider_2.jpg",
         "plot_summary": "دزدی که با استفاده از فناوری اشتراک‌گذاری رویا، اسرار شرکتی را می‌دزدد...",
         "age_rating": "PG-13 (مناسب بالای ۱۳ سال)"
       },
@@ -773,7 +773,7 @@
         "imdb_rating": 9.0,
         "runtime": "1 season (ongoing)",
         "genre": "انیمیشن، اکشن، ماجراجویی",
-        "image_url": "@/assets/images/arcane_slider_2.jpg",
+        "image_url": "/images/arcane_slider_2.jpg",
         "plot_summary": "داستان به ریشه‌های دو قهرمان نمادین لیگ افسانه‌ها و قدرتی که آنان را از هم جدا می‌کند، می‌پردازد.",
         "age_rating": "TV-14 (مناسب بالای ۱۴ سال)"
       },
@@ -782,7 +782,7 @@
         "imdb_rating": 9.2,
         "runtime": "2h 55m",
         "genre": "جنایی، درام",
-        "image_url": "@/assets/images/the_godfather_slider_2.jpg",
+        "image_url": "/images/the_godfather_slider_2.jpg",
         "plot_summary": "پدر سالار سالخورده یک سلسله جنایت سازمان یافته، کنترل امپراتوری پنهان خود را منتقل می‌کند...",
         "age_rating": "R (مناسب بزرگسالان)"
       },
@@ -791,7 +791,7 @@
         "imdb_rating": 8.6,
         "runtime": "2h 5m",
         "genre": "انیمیشن، ماجراجویی، خانوادگی",
-        "image_url": "@/assets/images/spirited_away_slider_2.jpg",
+        "image_url": "/images/spirited_away_slider_2.jpg",
         "plot_summary": "در طی نقل مکان خانواده‌اش به حومه شهر، یک دختر ۱۰ ساله عبوس به دنیایی سرگردان می‌شود که توسط خدایان، جادوگران و ارواح inhabited شده است...",
         "age_rating": "PG (مناسب تمام سنین با همراهی والدین)"
       }
