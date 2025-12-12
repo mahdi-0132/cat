@@ -3,7 +3,7 @@ import { useEffect, useRef, useState } from 'react'
 import Imdb from "@/public/imdb.webp"
 import Colck from "@/public/icons8-clock-24.png"
 import { Swiper, SwiperSlide } from 'swiper/react'
-import { Navigation ,Autoplay } from 'swiper/modules'
+import { Navigation, Autoplay } from 'swiper/modules'
 import "swiper/css"
 
 interface IHome {
@@ -15,25 +15,23 @@ interface IHome {
     plot_summary: string
     age_rating: string
 }
-
-function Homepage() {
-
+function SecondSlider() {
     const [data, setData] = useState<IHome[]>([]);
     const swiperRef = useRef<any>(null);
-    const [activeIndext , setActiveIndext] = useState(0);
+    const [activeIndext, setActiveIndext] = useState(0);
 
 
     useEffect(() => {
         fetch("http://localhost:3001/sliders")
             .then((res) => res.json())
-            .then((d) => setData(d.slider_1_new_releases)
+            .then((d) => setData(d.slider_2_highly_rated)
             )
     }, []);
 
     if (!data.length) return <p className='font-bold text-white'> درحال بارگذاری...</p>
 
     return (
-        <div className=' relative w-full h-[800px] overflow-hidden'>
+     <div className=' relative w-full h-96 overflow-hidden'>
             <Swiper
                     modules={[Navigation , Autoplay]}
                     slidesPerView={1}
@@ -51,27 +49,27 @@ function Homepage() {
                 {data?.map((movie, index) => (
 
                     <SwiperSlide key={index}>
-
                         <div
-                        className='bg-cover bg-center w-full h-full'
+                        className='bg-cover bg-center overflow-hidden px-40 '
                             key={index}
-                            style={{ backgroundImage: `url(${movie?.image_url})` }}
                         >
-
-                            <div className=' absolute top-0 left-0 w-full h-full bg-black/40 flex items-center px-20'>
-                                <div className='  text-white max-w-xl'>
-                                    <h1 className='font-bold text-5xl'> {movie.title} </h1>
-                                    <p className='mb-5 mt-4'> <span className='font-bold'>خلاصه داستان <br /></span> {movie.plot_summary} </p>
-                                    <p className='mb-5 mt-5'> <span className='font-bold'> ژانر<br /></span> {movie.genre} </p>
-                                    <div className='flex mr-10'>
+                            <img src={movie.image_url}
+                            className='rounded-lgnb w-full h-full'
+                            />
+                            <div className=' absolute right-1/2 mr-64 top-0 w-full h-full flex items-center px-20'>
+                                <div className='text-white max-w-xl flex flex-col items-center '>
+                                    <h1 className='flex items-center font-bold text-5xl mr-10'> {movie.title} </h1>
+                                    <p className='flex flex-col items-center text-justify max-w-52'> <span className='font-bold'>خلاصه داستان</span> {movie.plot_summary} </p>
+                                    <p className='flex flex-col items-center'> <span className='font-bold'> ژانر </span> {movie.genre} </p>
+                                    <div className='flex items-center justify-center mt-5'>
                                         <span className='mr-3 '> {movie.runtime}</span>
-                                        <img src="/icons8-clock-24.png" width={24} height={24} />
-                                        <span className='mr-3 ml-3 '> {movie.imdb_rating} </span>
+                                        <img src="/icons8-clock-24.png" width={24} height={24} /><span className='mr-5'>10/</span>
+                                        <span className=' ml-3 text-2xl text-yellow-400'> {movie.imdb_rating} </span>
                                         <img src="/imdb.webp" width={24} height={24} />
                                     </div>
 
 
-                                    <button className="bg-red-500 px-14 py-3 rounded-xl text-white font-bold mt-10"> مشاهده و دانلود باتمام کیفیت ها</button>
+                                    <button className="bg-red-500 px-14 py-3 rounded-xl text-white font-bold mt-5"> مشاهده و دانلود باتمام کیفیت ها</button>
 
 
                                 </div>
@@ -110,7 +108,7 @@ function Homepage() {
             </Swiper>
 
         </div>
-    )
+  )
 }
 
-export default Homepage
+export default SecondSlider

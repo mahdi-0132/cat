@@ -11,7 +11,7 @@ function DropdownFilm() {
     onMouseEnter={()=> setOpen(true)}
     onMouseLeave={()=>setOpen(false)}
     >
-      <div></div>
+    
         <button className= "flex items-center gap-1 text-right text-red-600 font-medium">
           
             <ChevronDown
