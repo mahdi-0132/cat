@@ -2,7 +2,7 @@ import Link from 'next/link'
 import DropdownFilm from './DropdownFilm'
 import DropdownSeries from './DropdownSreies'
 import DropdownHonar from './DropdownHonar'
-import SearchBox from './search'
+import Search from './search'
 import Enter from './Enter'
 import SignUp from './signup'
 
@@ -38,9 +38,11 @@ function Navbar() {
                          <li className=" font-bold text-white ">
                         <Link href="#"> درباره ما </Link></li>
                         
+                         <li className=" font-bold text-white ">
+                        <Link href="/download"> دانلود</Link></li>
  
                 </ul>
-                    <SearchBox/>
+                    <Search/>
                     <Enter/>
                     <SignUp/>
                    

@@ -27,9 +27,10 @@ function DropdownHonar() {
           ${ open ? "opacity-100 visible translate-y-0" : "opacity-0 invisible translate-y-2"} `}>
 
             <ul className= " flex flex-col gap-2">
-                <li> <Link href= "#" className= " hover:text-black"> مشاهدات بیشتر</Link> </li>
-                <li> <Link href= "#" className= " hover:text-black"> مشاهدات بیشتر</Link> </li>
-                <li> <Link href= "#" className= " hover:text-black"> مشاهدات بیشتر</Link> </li>
+                <li> <Link href= "#" className= "text-black hover:text-gray-500"> برد پیت</Link> </li>
+                <li> <Link href= "#" className= "text-black hover:text-gray-500"> تام هاردی</Link> </li>
+                <li> <Link href= "#" className= "text-black hover:text-gray-500"> انا د ارمس</Link> </li>
+                 <li> <Link href= "#" className= "text-black hover:text-gray-500"> سیدنی سوینی</Link> </li>
             </ul>
           </div>
 

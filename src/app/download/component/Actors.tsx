@@ -16,24 +16,25 @@ interface IHomeSuggestion {
     image_url: string
     plot_summary: string
     age_rating: string
+    part : string
 }
 
-function SuggestionComedySeriesAndMoviesItem() {
-    const [seriesImage, setSeriesImage] = useState<IHomeSuggestion[]>([])
+function Actors() {
+    const [actorsImage, setActorsImage] = useState<IHomeSuggestion[]>([])
     const swiperRef = useRef<any>(null)
 
     useEffect(() => {
-        fetch("http://localhost:3001/genres")
+        fetch("http://localhost:3001/actors")
             .then((res) => res.json())
             .then((data) => {
-                setSeriesImage(data.comedy)
+                setActorsImage(data.actorsimg)
             })
     }, [])
 
     const chunckSize = 5
     const slides = []
-    for (let i = 0; i < seriesImage.length; i += chunckSize) {
-        slides.push(seriesImage.slice(i, i + chunckSize))
+    for (let i = 0; i < actorsImage.length; i += chunckSize) {
+        slides.push(actorsImage.slice(i, i + chunckSize))
     }
 
 
@@ -49,18 +50,18 @@ function SuggestionComedySeriesAndMoviesItem() {
         }
     }
 
-    if (seriesImage.length === 0) {
+    if (actorsImage.length === 0) {
         return <div className="text-center py-8">در حال بارگذاری...</div>
     }
     return (
         <section className='mt-10'>
             <div className='flex justify-between items-center '>
-                <h2 className='mr-40 text-3xl'> فیلم و سریال های کمدی </h2>
+                <h2 className='mr-40 text-3xl'> فیلم و سریال های اکشن </h2>
                 <div className='ml-40 space-x-4'>
                     <button onClick={handlePrev}
                         className=' text-red-600 text-5xl rounded-full border border-black bg-black w-15 h-15'> ‹ </button>
                     <button onClick={handleNext}
-                        className='text-red-600 text-5xl rounded-full border  border-black bg-black w-15 h-15'> ›  </button>
+                        className='text-red-600 text-5xl rounded-full border border-black bg-black w-15 h-15'> ›  </button>
                 </div>
             </div>
 
@@ -78,27 +79,18 @@ function SuggestionComedySeriesAndMoviesItem() {
                             {group.map((suggece, index) => (
                                 <div className='relative group flex flex-col items-center' key={index}>
                                     <div className='overflow-hidden relative w-full h-96 rounded-lg'>
-                                        <img
-                                            src={suggece.image_url}
-                                            className='object-cover w-full h-full transition-transform duration-300 group-hover:scale-100'
-                                        />
-                                        <div className='absolute inset-0 bg-black/70 opacity-0 group-hover:opacity-100 
-                                        transition-opacity duration-300 flex flex-col justify-between p-4' >
-
-                                            <h3><span className='text-xl text-red-600'> خلاصه داستان<br /></span> {suggece.plot_summary} </h3>
-                                            <h4 className='mt-5'> <span className='text-lg text-red-600'>  رده سنی<br /></span> {suggece.age_rating} </h4>
-                                            <h4 className='mb-20'> <span className='text-lg text-red-600'>  ژانر<br /></span> {suggece.genre} </h4>
+                                        <div className='px-4 py-4 bg-black/50 rounded-2xl'>
+                                            <img
+                                                src={suggece.image_url}
+                                                className='object-cover w-[700px] transition-transform duration-300 group-hover:scale-100'
+                                            />
+                                                <p className='flex justify-center mt-5'> {suggece.title} </p>
+                                                <p className='flex justify-center font-medium text-sm text-gray-400/85'> {suggece.part} </p>
                                         </div>
-                                    </div>
-                                    <div className='flex bg-neutral-800 px-20 py-1 rounded-lg'>
-                                        <p className='ml-2'> {suggece.runtime} </p>
-                                        <img src="/clock.png" width={10} height={10} />
-
-                                        <p className='ml-2 mr-2' > {suggece.imdb_rating} </p>
-                                        <img src="/imdb.png" width={10} height={10} />
 
                                     </div>
-                                    <h2 className='mt-3'> {suggece.title} </h2>
+
+
                                 </div>
                             ))}
                         </div>
@@ -123,4 +115,4 @@ function SuggestionComedySeriesAndMoviesItem() {
     )
 }
 
-export default SuggestionComedySeriesAndMoviesItem
+export default Actors

@@ -54,12 +54,12 @@ function SuggestionAnimationItem() {
   return (
      <section className='mt-10'>
                 <div className='flex justify-between items-center '>
-                    <h2 className='mr-36 text-3xl'> انیمیشن های پیشنهادی </h2>
+                    <h2 className='mr-40 text-3xl'> انیمیشن های پیشنهادی </h2>
                     <div className='ml-40 space-x-4'>
                         <button onClick={handlePrev}
                             className=' text-red-600 text-5xl rounded-full border border-black bg-black w-15 h-15'> ‹ </button>
                         <button onClick={handleNext}
-                            className='next-btn text-red-600 text-5xl rounded-full border  border-black bg-black w-15 h-15'> ›  </button>
+                            className='text-red-600 text-5xl rounded-full border  border-black bg-black w-15 h-15'> ›  </button>
                     </div>
                 </div>
     

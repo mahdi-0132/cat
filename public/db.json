@@ -277,6 +277,35 @@
       }
     ]
   },
+  "actors":{
+    "actorsimg": [{
+      "title":"Paul Anderson",
+      "image_url":"/images/image.png",
+      "part": "Arthur Shellby"
+    },
+    {
+       "title":"Cilian Murphy",
+      "image_url":"/images/image1.png",
+      "part":"Tommy Shellby"
+    },
+     {
+       "title":"Halen McCory",
+      "image_url":"/images/image2.png",
+      "part" : "Polly Gray"
+    },
+     {
+       "title":"Tom Hardy",
+      "image_url":"/images/image3.png",
+      "part" : "Alfie Solomons"
+    },
+    {
+       "title":"Joe Cole",
+      "image_url":"/images/image4.png",
+      "part" : "John Shellby"
+    }
+
+  ]
+  },
   "genres": {
     "action": [
       {

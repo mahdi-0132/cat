@@ -1,4 +1,4 @@
-import Homepage from "./Homepage/homepage";
+import Homepage from "./Homepage/homepage"
 import BoxSearch from "./Components/boxSearch";
 import AdvanceSearch from "./Components/Advance/AdvanceSearch";
 import SuggestionMovie from "./Components/Suggestion/SuggestionMovie";

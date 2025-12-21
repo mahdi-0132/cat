@@ -57,7 +57,7 @@ for(let i = 0 ; i< movieImage.length; i += chunckSize ){
   return (
     <section className='mt-8'>
             <div className='w-full flex justify-between items-center '>
-              <h2 className='mr-36 text-3xl'> فیلم های پیشنهادی </h2>
+              <h2 className='mr-40 text-3xl'> فیلم های پیشنهادی </h2>
               <div className='ml-40 space-x-4'>
                 <button onClick={handlePrev} 
                 className='text-red-600 text-5xl rounded-full border border-black bg-black w-15 h-15'> ‹ </button>
