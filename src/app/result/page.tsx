@@ -1,6 +1,6 @@
 "use client"
 
-import { useSearchParams } from "next/navigation"
+import { useRouter, useSearchParams } from "next/navigation"
 import { useEffect, useState } from "react"
 
 interface ImdbResult {
@@ -18,6 +18,7 @@ interface ImdbResult {
  function ResultPage() {
   const searchParams = useSearchParams()
   const query = searchParams.get("q")
+  const router = useRouter()
 
   const [results, setResults] = useState<ImdbResult[]>([])
   const [loading, setLoading] = useState(true)
@@ -47,7 +48,9 @@ interface ImdbResult {
     fetchData()
   }, [query])
 
-
+const handleViewDetail = (item: ImdbResult) => {
+  router.push(`/download?id=${item["#IMDB_ID"]}&title=${encodeURIComponent(item["#TITLE"])}`)
+}
 
   if (!query) return <p className="text-center">چیزی سرچ نشده</p>
 
@@ -86,10 +89,9 @@ interface ImdbResult {
               <h5 className="font-medium text-gray-400"> بازیگران : <br/>
               <span className="text-white"> {item["#ACTORS"]} </span></h5>
 
-              <a 
-              href={item["#IMDB_URL"]}
-              target="_blank"
-              className="px-6 py-2 bg-red-600/85 rounded-xl"> مشاهده در IMDB</a>
+              <button
+              onClick={() => handleViewDetail(item)}
+              className="px-6 py-2 bg-red-600/85 rounded-xl"> مشاهده جزییات</button>
               </div>
               
           </div>
